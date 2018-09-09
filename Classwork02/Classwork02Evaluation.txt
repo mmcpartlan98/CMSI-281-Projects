@@ -1,0 +1,32 @@
+
+Classwork02 Evaluation
+======================
+
+You didn't turn anything in for this, so I can't do an
+evaluation on it.  It was due by Friday and on Sunday when
+I did the evaluation it was not there.  Sorry, but grace
+period is over....
+
+scores:
+=============================
+MyFileCopier.java
+   prompts user for filename  [1 pt]    0
+   calls Source constructor   [1 pt]    0
+   calls getter method        [1 pt]    0
+   calls Target constructor   [1 pt]    0
+Source.java
+   reads file completely      [1 pt]    0
+   has getter or returning    [1 pt]    0
+Target.java
+   writes file completely     [1 pt]    0
+file hdrs (3)                 [3 pt]    0
+no tabs                       [1 pt]    0
+indenting consistent          [1 pt]    0
+descriptive variable names    [1 pt]    0
+
+total possible points         13 points
+
+
+you got 0 out of 13 which is 0% which is an F.
+
+
