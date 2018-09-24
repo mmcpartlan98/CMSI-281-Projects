@@ -40,6 +40,7 @@ public class IntLinkedList {
     newNode.next = insLoc.getNode();
     insLoc = getIteratorAt(index - 1);
     insLoc.currentNode.next = newNode;
+    size++;
   }
 
   public int removeAt( int index ) {
@@ -47,6 +48,7 @@ public class IntLinkedList {
     Iterator remLocF = getIteratorAt(index + 1);
     Iterator remRet = getIteratorAt(index);
     remLoc.currentNode.next = remLocF.currentNode;
+    size--;
     return remRet.getCurrentInt();
   }
 
