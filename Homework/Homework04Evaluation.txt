@@ -1,0 +1,70 @@
+
+Homework04 Evaluation
+======================
+
+Not sure what's going on with this assignment...
+Here are a couple of observations and comments:
+
+Your code looks pretty good, but could improve and you STILL
+don't have file headers.  That fact alone costs you 3 points.
+
+You didn't bother doing all four of the programs.  I could only
+find the in order and the string hasher.  That costs you another
+12 points.
+
+The tree traverser seems to work, but without more expansive testing
+I have to read the source code.  Testing is pretty minimal, which
+costs you yet another point.
+
+The string hasher output is really hard to understand.  Looking
+at the code doesn't really help much without comments, either,
+but you've lost so many points already that I'm inclined to give
+you the benefit of the doubt, although there's no menu which was
+even in the book for you already...
+
+Definitely not your best work, gentlemen...
+
+These were from Abell's repo.
+  
+
+scores:
+=============================
+Tree Traverser
+   inOrderTraverser method implemented       [1 pt.]
+   2 test sets with at least minimal nodes   [1 pt.]
+   produces proper sequences                 [2 pt.]
+
+Priority Queue
+   Queue creation works correctly            [0 pt.]
+   insertion works correctly                 [0 pt.]
+   isFull() works correctly                  [0 pt.]
+   isEmpty() works correctly                 [0 pt.]
+   removal() works correctly                 [0 pt.]
+   heap representation works correctly       [0 pt.]
+
+Linear Probing String Hasher
+   menu works                                [0 pt.]
+   shows contents                            [1 pt.]
+   hash table created correctly              [1 pt.]
+   insertion works correctly                 [1 pt.]
+   linear probing works correctly            [1 pt.]
+   deletion works correctly                  [1 pt.]
+   finding works correctly                   [1 pt.]
+
+Digit Folding Hasher
+   menu works                                [0 pt.]
+   shows contents                            [0 pt.]
+   insertion works correctly                 [0 pt.]
+   linear probing works correctly            [0 pt.]
+   deletion works correctly                  [0 pt.]
+   finding works correctly                   [0 pt.]
+
+Coding style                                 [1 pt.]
+Tests written to test all classes            [1 pt.]
+Headers in all files                         [1 pt.]
+
+Total credit is 30 points
+-------------------------
+
+you got 13 out of 30 which is 43.33% which is an F
+
